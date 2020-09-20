@@ -1,0 +1,6 @@
+[submodule "api"]
+  path = api
+  url = https://github.com/tvhfrks12678/quiz-api
+[submodule "front"]
+  path = front
+  url = https://github.com/tvhfrks12678/quiz-front
